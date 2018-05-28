@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mis gastos</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guardar">guardar</string>
 </resources>
